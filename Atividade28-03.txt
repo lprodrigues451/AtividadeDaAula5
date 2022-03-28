@@ -1,0 +1,53 @@
+Exercicio de logica 
+
+1) IV - João é professor de matematica 
+
+2) d - Antonio não passa na prova e não vai ao cinema em Novo Horizonte
+
+
+Exercicios sobre Algoritmos 
+
+1) fazer café
+
+Passo  1 : Ver ser tem café
+Passo  2 : Liga o fogo
+Passo  3 : Ser estive coloca a agua e açucar para ferve 
+Passo  4 : Abrir o pote
+Passo  5 : Coloca uma colher de café no coador
+Passo  6 : Ser a agua fever 
+Passo  7 : Desliga o fogo
+Passo  8 : Pega a garrafa de café
+Passo  9 : E coar o café no coador dentro da garrafa 
+
+2)  Fazer compras de remedios 
+
+Passo  1 : Pega a carteira com o dinheiro
+Passo  2 : Ver no google maps qual a farmacia mais perto
+Passo  3 : Pesquisa ou ligar na farmacia o preço do remedio
+Passo  4 : Ver qual compensa mais entrega ou pega o remedio na farmacia 
+Passo  5 : Ser for para entrega 
+Passo  5.1 : liga para farmacia para fazer o pedidos
+Passo  5.2 : Entregador chegou
+Passo  5.2 : Paga o entregador
+Passo  6 : Ser for buscar vai a farmacia
+Passo  6.1 : Pega o remedio
+Passo  6.2 : vai para o caixa
+Passo  6.3 : paga o remedio
+Passo  6.3 : volta para casa
+
+3) Fazer um bolo de chocolate
+
+Passo  1 : Ver ser tem os ingrediente 
+Passo  2 : Pega a massa de bolo pronta
+Passo  3 : Coloca na vazinha 
+Passo  4 : Pega dois ovos
+Passo  5 : Quebra eles dentro da vazinha 
+Passo  6 : Coloca uma colher cheia de mantega na vazinha
+Passo  7 : Misture e vai colocando o leite pouco a pouco
+Passo  8 : Vai misturando bem até fica no ponto de cremoso
+Passo  9 : Coloca a mistura na travessa 
+Passo  10 : liga o forno 
+Passo  11 : coloca a travessa no forno.
+Passo  12 : vai conferindo ser o bolo esta pronto
+Passo  13 : Desliga o forno
+Passo  14 : E tira a travessa do forno 
