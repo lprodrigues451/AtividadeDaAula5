@@ -1,2 +1,2 @@
-# AtividadeDaAula5
-IntroducaoProgramacao
+# IntroducaoProgramacao
+Exercicio da aula 5
